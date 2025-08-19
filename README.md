@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 
 
-- 🔭 I’m working on a BS in Software Engineering. Completed coursework includes:
+🔭 I’m working on a BS in Software Engineering. Completed coursework includes:
 
     **• Programming & Development:** Python, C#, JavaScript, Web Dev (HTML/CSS/JS), Front-End Dev, UI Design.
 
@@ -12,4 +12,4 @@
     **• Data & Databases:** Data Management (Foundations, Applications, Advanced), Applied Statistics.
 
 
-- 👾 I'm using my profile to showcase some of the school projects I've completed. I also will be storing ongoing personal projects that I'll be doing for fun.
+👾 I'm using my profile to showcase some of the school projects I've completed. I also will be storing ongoing personal projects that I'll be doing for fun.
