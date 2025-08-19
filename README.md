@@ -6,7 +6,7 @@ Currently pursuing a B.S. in Software Engineering. Completed coursework includes
 
 - **Programming & Development**: Python, C#, JavaScript, Web Dev (HTML/CSS/JS), Front-End Dev, UI Design  
 - **Computer Science Foundations**: Data Structures & Algorithms, Applied Algebra, Systems Thinking  
-- **Software Tools & Practices**: Version Control (Git), Cloud Foundations, Technical Communication  
+- **Software Tools & Practices**: Version Control (Git), Cloud Foundations (AWS), Technical Communication  
 - **Data & Databases**: Data Management (Foundations, Applications, Advanced), Applied Statistics
 
 
